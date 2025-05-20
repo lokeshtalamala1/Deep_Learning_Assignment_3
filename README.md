@@ -2,7 +2,7 @@
 Use recurrent neural networks to build a transliteration system.
 -------------------------------------------------------------------
 
-# DA6401 Assignment 3: Sequence-to-Sequence Transliteration
+# DA6401 - Assignment 3: Sequence-to-Sequence Transliteration
 
 This project implements sequence-to-sequence models (vanilla and attention-based) for transliteration using RNN, GRU, and LSTM architectures. It supports training, evaluation, hyperparameter optimization, and visualization, with integration for Weights & Biases (W&B).
 
@@ -162,7 +162,7 @@ python main_attention.py --mode train --embed_size 128 --hidden_size 256 --cell_
 ## References
 
 - [Dakshina Dataset](https://github.com/google-research-datasets/dakshina)
-- [W&B Project Report](https://wandb.ai/cs24m023-indian-institute-of-technology-madras/Deep_Learning_Assignment_3/reports/DA6401-Assignment-3--VmlldzoxMjg0MzA1MQ)
-- [GitHub Repository](https://github.com/lokeshtalamala1/Deep_Learning_Assignment_3)
+- WanDB Report Link : [W&B Project Report](https://wandb.ai/cs24m023-indian-institute-of-technology-madras/Deep_Learning_Assignment_3/reports/DA6401-Assignment-3--VmlldzoxMjg0MzA1MQ)
+- GitHub Repo Link : [GitHub Repository](https://github.com/lokeshtalamala1/Deep_Learning_Assignment_3)
 
 ---
