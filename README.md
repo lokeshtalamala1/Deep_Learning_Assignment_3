@@ -1,6 +1,14 @@
 # Deep_Learning_Assignment_3
 Use recurrent neural networks to build a transliteration system.
 -------------------------------------------------------------------
+## References
+
+- [Dakshina Dataset](https://github.com/google-research-datasets/dakshina)
+- WanDB Report Link : [W&B Project Report](https://wandb.ai/cs24m023-indian-institute-of-technology-madras/Deep_Learning_Assignment_3/reports/DA6401-Assignment-3--VmlldzoxMjg0MzA1MQ)
+- GitHub Repo Link : [GitHub Repository](https://github.com/lokeshtalamala1/Deep_Learning_Assignment_3)
+
+---
+-------------------------------------------------------------------
 
 # DA6401 - Assignment 3: Sequence-to-Sequence Transliteration
 
@@ -156,13 +164,5 @@ python main_attention.py --mode train --embed_size 128 --hidden_size 256 --cell_
 
 - Tracks experiments, sweeps, and results.
 - Logs metrics, models, and visualizations.
-
----
-
-## References
-
-- [Dakshina Dataset](https://github.com/google-research-datasets/dakshina)
-- WanDB Report Link : [W&B Project Report](https://wandb.ai/cs24m023-indian-institute-of-technology-madras/Deep_Learning_Assignment_3/reports/DA6401-Assignment-3--VmlldzoxMjg0MzA1MQ)
-- GitHub Repo Link : [GitHub Repository](https://github.com/lokeshtalamala1/Deep_Learning_Assignment_3)
 
 ---
