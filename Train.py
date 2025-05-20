@@ -194,3 +194,26 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+
+
+
+
+
+# The parameters for best accuracy are:
+
+# embSize = 256
+# hiddenlayerneurons = 32
+# cellType = GRU
+# batchSize = 64
+# encoderlayers = 5
+# decodelayers = 5
+# bidirection = yes
+# dropout = 0.3
+# epochs = 10
+# hidden_size = 512
+# num_layers = 3
+# tf_ratio = 0.2
+# learningrate = 0.001
+# optimizer = adam
